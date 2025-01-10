@@ -22,4 +22,6 @@ Vite를 사용해 제작한 간단하고 빠른 영화 애플리케이션입니�
 
 API: omdb API
 
+<br/>
+
 [배포주소](https://movie-app-soneun.netlify.app/)
